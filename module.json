@@ -1,0 +1,19 @@
+{
+    "name": "SeoManager",
+    "alias": "seo-manager",
+    "description": "Context-aware SEO manager for configurable meta tags",
+    "keywords": [
+        "seo",
+        "meta",
+        "optimization"
+    ],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\SeoManager\\Providers\\SeoManagerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+
+
