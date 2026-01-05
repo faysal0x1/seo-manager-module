@@ -3,7 +3,7 @@
     "description": "Context-aware SEO manager module for Laravel projects.",
     "type": "laravel-module",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "laravel",
         "module",
@@ -24,9 +24,7 @@
         "psr-4": {
             "App\\Modules\\SeoManager\\": ""
         },
-        "classmap": [
-            "database/seeders"
-        ]
+        "classmap": []
     },
     "autoload-dev": {
         "psr-4": {
